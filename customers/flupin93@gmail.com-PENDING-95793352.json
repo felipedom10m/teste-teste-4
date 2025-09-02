@@ -1,0 +1,14 @@
+{
+  "email": "flupin93@gmail.com",
+  "nome": "Cesar F de Sousa",
+  "cpf": "027.462.948-85",
+  "selectedUpsells": [
+    2
+  ],
+  "transactionId": 95793352,
+  "timestamp": "2025-09-02T16:10:46.585Z",
+  "productInfo": {
+    "name": "teste-teste-4",
+    "repositoryUrl": "https://github.com/felipedom10m/teste-teste-4"
+  }
+}
